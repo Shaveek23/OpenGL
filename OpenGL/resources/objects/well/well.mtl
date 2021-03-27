@@ -1,0 +1,54 @@
+# Blender MTL File: 'well.blend'
+# Material Count: 3
+
+newmtl well_lower_texture.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump well_lower_normal.png
+map_Kd well_lower_diffuse.png
+map_Ks well_lower_specular.png
+
+newmtl well_lower_texture
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd well_lower_diffuse.png
+map_Ks well_lower_specular.png
+map_Bump well_lower_normal.png
+
+newmtl well_middle_texture
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd well_middle_diffuse.png
+map_Ks well_middle_specular.png
+map_Bump well_middle_normal.png
+
+newmtl well_roof_texture
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd well_roof_diffuse.png
+map_Ks well_roof_specular.png
+map_Bump well_roof_normal.png

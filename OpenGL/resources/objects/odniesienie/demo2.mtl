@@ -1,0 +1,266 @@
+# Blender MTL File: 'None'
+# Material Count: 21
+
+newmtl Cottage_FREE
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd texture_diffuse.png
+map_Ks specular.png
+map_Bump normal.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd grass.jpg
+
+newmtl Material_001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd house2.png
+
+newmtl StingrayPBS1SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+newmtl StingrayPBS1SG.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS1SG.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS1SG.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS1SG.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS1SG.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS2SG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS2SG.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS2SG.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS2SG.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS2SG.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl StingrayPBS2SG.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd latern_diffuse.jpg
+map_Ks later_specular.jpg
+map_Bump latern_normal.jpg
+
+
+newmtl cottage_texture
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cottage_diffuse.png
+map_Bump cottage_normal.png
+
+newmtl lambert2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rock_diffuse.png
+
+newmtl well_lower_texture.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump well_lower_normal.png
+map_Kd well_lower_diffuse.png
+map_Ks well_lower_specular.png
+
+newmtl well_middle_texture.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump well_middle_normal.png
+map_Kd well_middle_diffuse.png
+map_Ks well_middle_specular.png
+
+newmtl well_roof_texture.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump well_roof_normal.png
+map_Kd well_roof_diffuse.png
+map_Ks well_roof_specular.png

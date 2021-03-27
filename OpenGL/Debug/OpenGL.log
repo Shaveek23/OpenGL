@@ -1,0 +1,31 @@
+﻿  Application.cpp
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(208,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(353,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(354,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(358,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(359,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(361,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(362,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(371,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(701,78): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(702,79): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(735,155): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(736,155): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(737,155): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(738,155): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(739,155): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(740,155): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(741,216): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Application.cpp(742,216): warning C4305: 'argument': truncation from 'double' to 'float'
+  FreeCamera.cpp
+  Camera.cpp
+  DirectionalLight.cpp
+  Light.cpp
+  Model.cpp
+  PointLight.cpp
+  Shader.cpp
+D:\Studia\grafika_komputerowa\opengl\OpenGL\OpenGL\Shader.cpp(38,36): warning C4101: 'e': unreferenced local variable
+  SpotLight.cpp
+  Mesh.cpp
+  Generating Code...
+  OpenGL.vcxproj -> D:\Studia\grafika_komputerowa\opengl\OpenGL\Debug\OpenGL.exe
